@@ -1,2 +1,2 @@
-# libpng-12-0-for-MX-Linux-21
-libpng12-0 for MX Linux 21 to install WPS Office 2016
+# libpng-1.2.50-for-MX-Linux-19
+Este es el arreglo en para MX Linux 19 para poder instalar WPS Office 2016 en MX Linux 19 con la librería libpng12.0
